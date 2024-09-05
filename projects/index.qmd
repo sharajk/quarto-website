@@ -2,7 +2,7 @@
 title: Projects
 ---
 
-For each project below, first, I will motivate the problem that we're aiming to solve with a question. Second, I'll provide illustrations and an abstract to summarize the study. Third, I'll provide articles, extended abstracts and/or talk slides that I've submitted to conferences where I have or will present this work. Feel free to reach out to me regarding any of them to know more. Datasets and code for most of them will be available upon journal publication. 
+For each project below, first, I will motivate the problem that we're aiming to solve, with a premise and a question. Second, I'll provide illustrations and an abstract to summarize the study. Third, I'll provide articles, extended abstracts and/or talk slides that I've submitted to conferences where I have or will present this work. Feel free to reach out to me regarding any of them to know more. Datasets and code for most of them will be available upon journal publication. 
 
 ## Published work
 
@@ -26,7 +26,7 @@ Here, we study how the autonomy that users have in manipulating their communicat
 
 ### Characterizing the politicized news media coverage of the U.S. Mpox epidemic of 2022
 
-<i> Imagine you work at the WHO. There's an epidemic going around, things have gotten controversial, political pundits are making all sorts of claims online, and people are taking sides instead of focusing on evidence informed medical advice. You have to figure out a way to monitor and summarize the discourse, but the internet is huge and the issue is sensitive. What do you do? </i>
+<i> Imagine you work at the WHO. There's an epidemic going around, things have gotten controversial, political pundits are making all sorts of claims online, and people are taking sides instead of focusing on evidence informed medical advice. You have to figure out a way to monitor and summarize the online discourse, but the internet is huge and the issue is sensitive. What do you do? </i>
 
 <p style="text-align: center;">
 <img src="../img/mpox_intersections.png" style="display: inline-block; width: 48%; height: auto; object-fit: contain; margin-right: 15px;">
@@ -55,15 +55,18 @@ The Intermedia Agenda-setting (IAS) theory says that news outlets influence othe
 
 Surprisingly, we find that alt-right news outlets such as Breitbart and Daily Caller were the central agenda setters for this discourse. In other words, left-leaning news outlets such as NPR and New York Times were influenced by each way other lesser than they were influenced by right-leaning outlets. Essentially, while alt-right outlets may have set the stage for controversies surrounding Mpox being a "gay disease", left-leaning outlets amplified this controversy by being reactive. It is important to note that these intermedia influence patterns seem to be unique to controversial and competitive news frames, since we don't find similar patterns for agendas with reasonable bipartisan consensus (such as critiques about the CDC's slow response and vaccine disparities). 
 
-### Order in Chorus: Studying quorum decision-making in meerkats using move call dynamics 
+### Order in Chorus: Studying group decision-making in meerkats using move call dynamics 
 
+<i>
+Growing up, I'd often have to convince my parents to take me out for lunch. It'd start with me yelling that I want to have restaurant soup and kebabs. 1 out of 5 times, my mom would back me up. When she did, my dad (the one who'd pay for the lunch) was more likely to agree to take us out. This decision was a group one: I'd initiate the idea, my mom would amplify my idea, and my dad my finalize the decision. So even though the decision was a consensus one, we all played different roles in the process. What if animals did something similar? What if there are special roles that different members of a group assume when they decide to forage?
+</i>
 
 <img src="../img/meerkat_move.png" style="object-fit: contain; width: 100%; height: auto; display: block; margin: 0 auto;">
 
 <i> Illustration credits: Pranav Minasandra </i> 
 
-<b> Collaborators: </b> <a href = "https://www.cocomo.group">Ariana Strandburg-Peshkin</a>, <a href = "https://lilyjohnsonulrich.weebly.com">Lily Johnson-Ulirch</a>, <a href = "https://www.ab.mpg.de/person/103465/2736">Vlad Demartsev</a>.
+<b> Collaborators: </b> <a href = "https://www.cocomo.group">Ariana Strandburg-Peshkin</a>, <a href = "https://lilyjohnsonulrich.weebly.com">Lily Johnson-Ulrich</a>, <a href = "https://www.ab.mpg.de/person/103465/2736">Vlad Demartsev</a>.
 
-
+Animals in the wild routinely engage in group decision-making, be it primates deciding where to rest, birds deciding where to forage, or bees deciding where to nest. Conventional analysis of these decision-making processes assume that either all individuals in the group contribute equally (shared decision-making), or that some individuals lead and others follow (unshared decision-making). We challenge this dichotomy by introducing a form of shared decision-making where each individual contributes by specializing in unique roles during the process. Here, we investigate quorum decision-making in two groups of foraging meerkats by using the move-call vocalization dynamics as a case study. We derive time series data for the move calls by labelling audio signals obtained through collaring meerkats at the Kalahari Research Centre. In meerkat groups, move calls facilitate movement between foraging patches. Prior literature suggests that move calls result in successful movement bouts only when atleast 3 individuals participate in the move call chorus. We propose a framework where these bouts occur in 3 steps: An initiation (where an individual makes the first move call), an amplification (where another individual makes the second move call) and finalization (where yet another individual makes a third call). We show that individuals tend to specialize in these roles based on their social status: Sub-ordinate adults tend to initiate, juveniles tend to amplify, and the dominant female tends to finalize successful move call bouts. 
 
 
