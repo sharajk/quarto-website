@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1404.3284"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-760.628113 -587.000000 1404.328369 1235.000000" height="1235.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_Daily_Caller id_NPR"
+              d="M -254.489319,47.506222 A 477.316825,477.316825 0,0 1,179.830887,249.965195"
+              stroke="#000000" stroke-width="1.8894118"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Daily_Caller id_New_York_Times"
+              d="M -301.748810,100.607071 A 257.313934,257.313934 0,0 1,-414.368622,285.453674"
+              stroke="#000000" stroke-width="1.8664706"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Daily_Caller id_RedState"
+              d="M -257.113373,70.602150 A 259.851216,259.851216 0,0 1,-122.093254,230.260071"
+              stroke="#000000" stroke-width="3.4494119"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Daily_Caller id_newsone.com"
+              d="M -324.957489,14.080030 A 209.467447,209.467447 0,0 1,-328.116608,-155.230408"
+              stroke="#000000" stroke-width="2.3941176"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Daily_Caller id_townhall.com"
+              d="M -310.025696,8.224859 A 557.944924,557.944924 0,0 1,-62.905968,-548.209229"
+              stroke="#000000" stroke-width="0.295" stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Daily_Caller id_Mother_Jones"
+              d="M -263.527527,25.750212 A 565.735349,565.735349 0,0 1,348.143158,3.662651"
+              stroke="#000000" stroke-width="0.5817647"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none" class="id_Fox_News id_NPR"
+              d="M 376.044678,465.784241 A 206.461746,206.461746 0,0 1,231.761551,357.368835"
+              stroke="#000000" stroke-width="0.76529413"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none" class="id_NPR id_Blaze"
+              d="M 181.606995,272.165039 A 365.543605,365.543605 0,0 1,117.054214,-76.714325"
+              stroke="#000000" stroke-width="0.21470588"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none" class="id_NPR id_Breitbart"
+              d="M 194.844498,263.438324 A 525.772633,525.772633 0,0 1,286.593140,-268.130920"
+              stroke="#000000" stroke-width="0.35235295"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none" class="id_NPR id_RedState"
+              d="M 173.595825,330.330780 A 270.813283,270.813283 0,0 1,-53.712616,335.791687"
+              stroke="#000000" stroke-width="2.9217646"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none" class="id_NPR id_PJ_Media"
+              d="M 173.229187,282.681549 A 570.865710,570.865710 0,0 1,-86.015137,-266.045685"
+              stroke="#000000" stroke-width="0.5932353"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none" class="id_NPR id_townhall.com"
+              d="M 177.097366,277.044800 A 754.060436,754.060436 0,0 1,-48.860996,-536.419739"
+              stroke="#000000" stroke-width="0.32941177"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none" class="id_NPR id_Mother_Jones"
+              d="M 211.930389,259.558441 A 273.190907,273.190907 0,0 1,344.077179,39.322853"
+              stroke="#000000" stroke-width="0.8570588"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_New_York_Times id_Daily_Caller"
+              d="M -468.053528,270.859039 A 257.313934,257.313934 0,0 1,-343.929596,74.591423"
+              stroke="#000000" stroke-width="0.12294118"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_New_York_Times id_Breitbart"
+              d="M -456.664856,272.585571 A 846.562873,846.562873 0,0 1,269.801636,-310.219055"
+              stroke="#000000" stroke-width="0.11147059"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_New_York_Times id_RedState"
+              d="M -433.883820,289.087494 A 297.834156,297.834156 0,0 1,-151.099518,278.253418"
+              stroke="#000000" stroke-width="0.83411765"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_New_York_Times id_newsone.com"
+              d="M -480.495758,272.557129 A 446.866692,446.866692 0,0 1,-325.955994,-181.093307"
+              stroke="#000000" stroke-width="0.26058823"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_New_York_Times id_townhall.com"
+              d="M -475.434692,271.407288 A 812.585671,812.585671 0,0 1,-62.050728,-550.640503"
+              stroke="#000000" stroke-width="0.1" stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Raw_Story id_Fox_News"
+              d="M -328.978943,-381.528839 A 953.016625,953.016625 0,0 1,397.866699,443.460938"
+              stroke="#000000" stroke-width="0.12294118"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Raw_Story id_townhall.com"
+              d="M -344.043396,-413.520630 A 302.099089,302.099089 0,0 1,-66.724380,-565.151489"
+              stroke="#000000" stroke-width="0.2835294"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none" class="id_Newsmax id_Fox_News"
+              d="M 455.764557,610.984680 A 143.835533,143.835533 0,0 1,397.869019,500.108551"
+              stroke="#000000" stroke-width="0.6735294"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Blaze id_Daily_Caller"
+              d="M 108.651314,-83.735367 A 394.814615,394.814615 0,0 1,-226.919800,65.820358"
+              stroke="#000000" stroke-width="2.8070588"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none" class="id_Blaze id_NPR"
+              d="M 172.374313,-88.351265 A 365.543605,365.543605 0,0 1,233.496338,258.898682"
+              stroke="#000000" stroke-width="0.46705884"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none" class="id_Blaze id_Breitbart"
+              d="M 151.254044,-175.099152 A 224.576229,224.576229 0,0 1,260.015015,-292.340576"
+              stroke="#000000" stroke-width="1.3961765"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none" class="id_Blaze id_RedState"
+              d="M 140.392776,-74.800819 A 412.344319,412.344319 0,0 1,-44.860786,266.110321"
+              stroke="#000000" stroke-width="3.7705882"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none" class="id_Blaze id_newsone.com"
+              d="M 90.846886,-105.254189 A 373.119467,373.119467 0,0 1,-272.172699,-167.680817"
+              stroke="#000000" stroke-width="1.9352942"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none" class="id_Blaze id_PJ_Media"
+              d="M 87.341225,-134.967300 A 238.433091,238.433091 0,0 1,-47.413990,-237.368210"
+              stroke="#000000" stroke-width="4.0" stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Blaze id_townhall.com"
+              d="M 95.648201,-154.989441 A 392.748677,392.748677 0,0 1,-47.301079,-526.459412"
+              stroke="#000000" stroke-width="1.2470589"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Breitbart id_Daily_Caller"
+              d="M 304.753143,-259.689972 A 608.969601,608.969601 0,0 1,-253.183655,57.623943"
+              stroke="#000000" stroke-width="0.1" stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none" class="id_Breitbart id_NPR"
+              d="M 354.149445,-258.457458 A 525.772633,525.772633 0,0 1,248.932465,270.612732"
+              stroke="#000000" stroke-width="0.35235295"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Breitbart id_New_York_Times"
+              d="M 313.210419,-256.374969 A 846.562873,846.562873 0,0 1,-423.966461,310.938354"
+              stroke="#000000" stroke-width="0.24911764"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none" class="id_Breitbart id_Blaze"
+              d="M 313.671936,-256.235352 A 224.576229,224.576229 0,0 1,195.179337,-141.210281"
+              stroke="#000000" stroke-width="0.8455882"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Breitbart id_RedState"
+              d="M 329.191772,-253.756088 A 631.558050,631.558050 0,0 1,-74.356285,288.825897"
+              stroke="#000000" stroke-width="0.14588235"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Breitbart id_newsone.com"
+              d="M 287.694366,-272.013672 A 538.119892,538.119892 0,0 1,-280.484619,-186.205505"
+              stroke="#000000" stroke-width="0.19176471"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Breitbart id_PJ_Media"
+              d="M 279.845703,-282.077942 A 340.915692,340.915692 0,0 1,-19.239721,-278.032959"
+              stroke="#000000" stroke-width="2.6694117"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Breitbart id_Mother_Jones"
+              d="M 368.310944,-266.893280 A 282.692962,282.692962 0,0 1,397.039093,-21.548738"
+              stroke="#000000" stroke-width="1.9123529"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Breitbart id_Truthout"
+              d="M 366.483826,-361.980865 A 250.538498,250.538498 0,0 1,584.704529,-437.921783"
+              stroke="#000000" stroke-width="0.21470588"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_RedState id_Raw_Story"
+              d="M -142.244537,279.914673 A 610.017778,610.017778 0,0 1,-366.803223,-353.253479"
+              stroke="#000000" stroke-width="0.6964706"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_RedState id_Breitbart"
+              d="M -111.050461,263.961548 A 631.558050,631.558050 0,0 1,273.355835,-292.580719"
+              stroke="#000000" stroke-width="0.12294118"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_RedState id_newsone.com"
+              d="M -142.570328,280.382446 A 445.931837,445.931837 0,0 1,-311.336212,-169.115524"
+              stroke="#000000" stroke-width="0.46705884"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_RedState id_townhall.com"
+              d="M -130.649841,269.227692 A 722.727938,722.727938 0,0 1,-56.715942,-542.532410"
+              stroke="#000000" stroke-width="0.19176471"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_newsone.com id_Raw_Story"
+              d="M -322.559357,-213.701630 A 164.666589,164.666589 0,0 1,-365.628601,-358.404724"
+              stroke="#000000" stroke-width="0.16882353"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_American_Spectator id_RedState"
+              d="M -105.149643,494.764374 A 177.657324,177.657324 0,0 1,-130.931870,347.788666"
+              stroke="#000000" stroke-width="1.2241176"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_PJ_Media id_Daily_Caller"
+              d="M -76.583946,-271.387543 A 357.993404,357.993404 0,0 1,-225.210251,12.337341"
+              stroke="#000000" stroke-width="3.9541175"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none" class="id_PJ_Media id_NPR"
+              d="M -41.731400,-292.441498 A 570.865710,570.865710 0,0 1,223.185287,240.074966"
+              stroke="#000000" stroke-width="2.0155883"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_PJ_Media id_Raw_Story"
+              d="M -118.675468,-301.278442 A 240.502437,240.502437 0,0 1,-322.088684,-351.746033"
+              stroke="#000000" stroke-width="2.1417646"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_PJ_Media id_newsone.com"
+              d="M -100.438126,-277.632568 A 211.823048,211.823048 0,0 1,-255.584702,-194.785156"
+              stroke="#000000" stroke-width="2.44" stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_PJ_Media id_townhall.com"
+              d="M -94.278671,-352.650787 A 209.976646,209.976646 0,0 1,-70.696442,-524.025818"
+              stroke="#000000" stroke-width="2.5088236"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_townhall.com id_Daily_Caller"
+              d="M -34.211861,-538.705139 A 557.944924,557.944924 0,0 1,-259.904083,27.793081"
+              stroke="#000000" stroke-width="0.18029413"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Mother_Jones id_Blaze"
+              d="M 348.557495,23.106825 A 234.882396,234.882396 0,0 1,178.416336,-58.235737"
+              stroke="#000000" stroke-width="2.7841177"
+              stroke-opacity="0.49803922"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Mother_Jones id_townhall.com"
+              d="M 350.123291,12.862553 A 598.564582,598.564582 0,0 1,-39.618187,-535.964050"
+              stroke="#000000" stroke-width="0.21470588"
+              stroke-opacity="0.49803922"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Daily_Caller id_NPR"
+                  points="189.544952,266.170898 171.728043,254.822235 187.933731,245.108154"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Daily_Caller id_New_York_Times"
+                  points="-431.001892,293.921631 -418.602600,277.137054 -410.134644,293.770294"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Daily_Caller id_RedState"
+                  points="-116.993164,264.375061 -139.150757,232.810120 -105.035751,227.710022"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Daily_Caller id_newsone.com"
+                  points="-316.361877,-176.087204 -317.688202,-149.353043 -338.545013,-161.107773"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Daily_Caller id_townhall.com"
+                  points="-60.392845,-549.754089 -62.133522,-546.952637 -63.678413,-549.465820"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Daily_Caller id_Mother_Jones"
+                  points="353.053101,6.783163 346.582916,6.117617 349.703400,1.207685"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Fox_News id_NPR"
+                  points="229.194046,350.159424 235.366257,356.085083 228.156845,358.652588"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_NPR id_Blaze"
+                  points="117.883720,-78.694672 118.044388,-76.299568 116.064041,-77.129082"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_NPR id_Breitbart"
+                  points="289.046051,-270.660461 287.857910,-266.904480 285.328369,-269.357361"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_NPR id_RedState"
+                  points="-78.874199,320.940247 -46.286896,323.210907 -61.138344,348.372467"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_NPR id_PJ_Media"
+                  points="-85.062668,-271.901062 -83.087440,-265.569427 -88.942833,-266.521881"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_NPR id_townhall.com"
+                  points="-47.757450,-539.523499 -47.309105,-535.867981 -50.412880,-536.971497"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_NPR id_Mother_Jones"
+                  points="351.709198,35.423237 346.026947,43.138870 342.127350,35.506836"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_New_York_Times id_Daily_Caller"
+                  points="-342.820190,74.061638 -343.664703,75.146118 -344.194489,74.036713"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_New_York_Times id_Breitbart"
+                  points="270.914490,-310.283173 269.833679,-309.662628 269.769592,-310.775482"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_New_York_Times id_RedState"
+                  points="-143.920746,282.500824 -153.223221,281.842804 -148.975815,274.664032"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_New_York_Times id_newsone.com"
+                  points="-323.875549,-182.662521 -325.171387,-180.053085 -326.740601,-182.133530"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_New_York_Times id_townhall.com"
+                  points="-61.167145,-551.108765 -61.816589,-550.198730 -62.284866,-551.082275"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Raw_Story id_Fox_News"
+                  points="397.981964,444.684937 397.254700,443.518585 398.478699,443.403290"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Raw_Story id_townhall.com"
+                  points="-63.901955,-564.881653 -66.859283,-563.740295 -66.589478,-566.562683"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Newsmax id_Fox_News"
+                  points="398.388489,493.393341 401.226624,500.368286 394.511414,499.848816"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Blaze id_Daily_Caller"
+                  points="-254.634186,61.362717 -224.690979,51.963165 -229.148621,79.677551"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Blaze id_NPR"
+                  points="231.680542,263.201874 231.344757,257.990784 235.647919,259.806580"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Blaze id_Breitbart"
+                  points="273.379974,-296.379028 262.034241,-285.658112 257.995789,-299.023041"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Blaze id_RedState"
+                  points="-78.102493,283.907013 -53.759136,249.489441 -35.962437,282.731140"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Blaze id_newsone.com"
+                  points="-286.395447,-180.805206 -265.610504,-174.792206 -278.734894,-160.569427"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Blaze id_PJ_Media"
+                  points="-62.431671,-274.442047 -28.877069,-244.877045 -65.950905,-229.859375"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Blaze id_townhall.com"
+                  points="-44.688850,-538.653320 -41.204117,-525.153320 -53.398041,-527.765503"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Breitbart id_Daily_Caller"
+                  points="-254.180679,57.546909 -253.145142,57.125427 -253.222168,58.122459"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Breitbart id_NPR"
+                  points="246.447632,273.110901 247.683380,269.370300 250.181549,271.855164"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Breitbart id_New_York_Times"
+                  points="-426.454773,311.057526 -424.026062,309.694183 -423.906860,312.182526"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Breitbart id_Blaze"
+                  points="187.009918,-139.027985 194.088196,-145.294998 196.270477,-137.125565"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Breitbart id_RedState"
+                  points="-75.733856,289.305969 -74.596313,288.137115 -74.116257,289.514679"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Breitbart id_newsone.com"
+                  points="-282.221375,-187.018539 -280.078094,-187.073883 -280.891144,-185.337128"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Breitbart id_PJ_Media"
+                  points="-42.109856,-291.800049 -12.356175,-289.468018 -26.123264,-266.597900"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Breitbart id_Mother_Jones"
+                  points="389.230499,-4.092064 388.310760,-25.453028 405.767426,-17.644449"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Breitbart id_Truthout"
+                  points="586.813538,-437.519287 584.503296,-436.867279 584.905762,-438.976288"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_RedState id_Raw_Story"
+                  points="-364.934021,-359.962677 -363.448639,-352.318878 -370.157806,-354.188080"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_RedState id_Breitbart"
+                  points="274.509552,-293.005463 273.568207,-292.003876 273.143463,-293.157562"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_RedState id_newsone.com"
+                  points="-310.217102,-173.650055 -309.068939,-168.555969 -313.603485,-169.675079"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_RedState id_townhall.com"
+                  points="-55.468590,-543.988953 -55.987679,-541.908752 -57.444206,-543.156067"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_newsone.com id_Raw_Story"
+                  points="-365.162170,-360.027252 -364.817352,-358.171509 -366.439850,-358.637939"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_American_Spectator id_RedState"
+                  points="-126.153679,336.518555 -125.296814,350.177765 -136.566925,345.399567"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_PJ_Media id_Daily_Caller"
+                  points="-259.839325,31.424841 -234.754013,-4.977188 -215.666519,29.651871"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_PJ_Media id_NPR"
+                  points="220.275284,260.019684 213.212936,238.619965 233.157639,241.529968"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_PJ_Media id_Raw_Story"
+                  points="-337.028900,-367.092224 -314.415588,-359.216125 -329.761780,-344.275940"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_PJ_Media id_newsone.com"
+                  points="-279.950195,-196.082611 -254.935974,-206.967896 -256.233429,-182.602417"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_PJ_Media id_townhall.com"
+                  points="-54.930153,-543.541016 -60.938835,-516.142700 -80.454048,-531.908936"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_townhall.com id_Daily_Caller"
+                  points="-261.421906,28.766125 -260.390594,27.034172 -259.417572,28.551994"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Mother_Jones id_Blaze"
+                  points="164.033813,-82.074249 190.335571,-65.426994 166.497070,-51.044487"
+                  stroke="none"/>
+        <polyline fill="#000000" fill-opacity="0.49803922"
+                  class="id_Mother_Jones id_townhall.com"
+                  points="-39.614170,-538.111084 -38.544659,-535.962036 -40.691715,-535.966064"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ff8f95" r="45.166668" cx="-300.70868"
+                class="id_Daily_Caller" cy="53.951996" stroke="#b26468"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#ff8f95" r="22.944445" cx="400.2738"
+                class="id_Fox_News" cy="469.0217" stroke="#b26468"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#78b3ff" r="45.166668" cx="213.53777"
+                class="id_NPR" cy="306.19742" stroke="#547db2"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#78b3ff" r="40.72222" cx="-468.62866"
+                class="id_New_York_Times" cy="313.07733" stroke="#547db2"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#78b3ff" r="27.38889" cx="-357.1808"
+                class="id_Raw_Story" cy="-387.79172" stroke="#547db2"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#ff8f95" r="22.944445" cx="476.5441"
+                class="id_Newsmax" cy="623.85876" stroke="#b26468"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#ff8f95" r="49.61111" cx="137.63026"
+                class="id_Blaze" cy="-125.83722" stroke="#b26468"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#ff8f95" r="58.5" cx="330.81516"
+                class="id_Breitbart" cy="-313.73413" stroke="#b26468"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#ff8f95" r="36.27778" cx="-111.40758"
+                class="id_RedState" cy="301.73764" stroke="#b26468"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#78b3ff" r="22.944445" cx="-304.36005"
+                class="id_newsone.com" cy="-197.38243" stroke="#547db2"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#ff8f95" r="22.944445" cx="-89.85702"
+                class="id_American_Spectator" cy="513.8344" stroke="#b26468"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#ff8f95" r="40.72222" cx="-78.28367"
+                class="id_PJ_Media" cy="-313.57553" stroke="#b26468"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#ff8f95" r="22.944445" cx="-39.568443"
+                class="id_townhall.com" cy="-562.5555" stroke="#b26468"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#78b3ff" r="27.38889" cx="377.4345"
+                class="id_Mother_Jones" cy="22.278795" stroke="#547db2"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#78b3ff" r="18.5" cx="606.459"
+                class="id_Truthout" cy="-433.77002" stroke="#547db2"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#78b3ff" r="18.5" cx="-712.26874"
+                class="id_ProPublica" cy="-110.28085" stroke="#547db2"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="47" x="-300.70868" y="64.979095" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Daily_Caller">
+            Daily Caller
+        </text>
+        <text font-size="24" x="400.2738" y="473.38693" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fox_News">
+            Fox News
+        </text>
+        <text font-size="47" x="213.53777" y="314.6083" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_NPR">
+            NPR
+        </text>
+        <text font-size="42" x="-468.62866" y="320.7165" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_New_York_Times">
+            New York Times
+        </text>
+        <text font-size="29" x="-357.1808" y="-380.98776" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Raw_Story">
+            Raw Story
+        </text>
+        <text font-size="24" x="476.5441" y="628.224" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Newsmax">
+            Newsmax
+        </text>
+        <text font-size="51" x="137.63026" y="-116.5611" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Blaze">
+            Blaze
+        </text>
+        <text font-size="60" x="330.81516" y="-302.82104" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Breitbart">
+            Breitbart
+        </text>
+        <text font-size="38" x="-111.40758" y="308.76987" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_RedState">
+            RedState
+        </text>
+        <text font-size="24" x="-304.36005" y="-194.13048" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_newsone.com">
+            newsone.com
+        </text>
+        <text font-size="24" x="-89.85702" y="519.39496" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_American_Spectator">
+            American Spectator
+        </text>
+        <text font-size="42" x="-78.28367" y="-305.93124" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_PJ_Media">
+            PJ Media
+        </text>
+        <text font-size="24" x="-39.568443" y="-558.19025" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_townhall.com">
+            townhall.com
+        </text>
+        <text font-size="29" x="377.4345" y="27.556993" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mother_Jones">
+            Mother Jones
+        </text>
+        <text font-size="20" x="606.459" y="-430.13232" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Truthout">
+            Truthout
+        </text>
+        <text font-size="20" x="-712.26874" y="-106.64316" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ProPublica">
+            ProPublica
+        </text>
+    </g>
+</svg>
