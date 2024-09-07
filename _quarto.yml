@@ -21,8 +21,15 @@ website:
       - text: "CV"
         href: cv/index.qmd
     
-    # your social media handles
-    right:
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    left: |
+      <span class="faux-block">&#169; 2024 Sharaj Kunjar CC BY-SA 4.0</span>
+    center: 
       - text: "{{< iconify fa6-brands google-scholar size=large >}}"
         href: https://scholar.google.com/citations?user=8Aofwe4AAAAJ&hl=en&oi=ao
       - icon: twitter
@@ -34,14 +41,6 @@ website:
         href: "mailto:sharaj.kunjar@gmail.com"
       - text: "{{<iconify fa6-brands github size=large >}}"
         href: https://github.com/sharajk/
-
-# Don't touch unless you know what you are doing :) ------------
-  search: 
-    location: navbar
-    type: textbox
-  page-footer: 
-    left: |
-      <span class="faux-block">&#169; 2024 Sharaj Kunjar CC BY-SA 4.0</span>
     right: |
       <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">Template adapted from Marvin Schmitt</a></span>
 
