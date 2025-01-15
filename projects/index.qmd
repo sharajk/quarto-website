@@ -32,7 +32,7 @@ Here, we study how the autonomy that users have in manipulating their communicat
 
 <h3 style = "text-align: left;"> Characterizing the politicized news media coverage of the U.S. Mpox epidemic of 2022 </h3>
 
-<a href="../files/ic2s2_2024.pdf">IC2S2 2024 abstract</a> | <a href="../files/ic2s2_2024.pptx">IC2S2 2024 talk </a> 
+<a href="../files/ic2s2_2024.pdf">Extended Abstract</a> | <a href="../files/ic2s2_2024.pptx">IC2S2 2024 talk </a> 
 
 <b> Collaborators: </b> <a href = "https://scarpino.github.io">Samuel Scarpino</a>, <a href = "http://brooke-welles.squarespace.com">Brooke Foucault Welles</a>, <a href = "https://www.linkedin.com/in/rushali-mohbe/">Rushali Mohbe</a>.
 
@@ -54,9 +54,9 @@ In 2022, the United States was struck with an epidemic of Mpox, a disease that w
 
 </details>
 
-<h3 style = "text-align: left;"> A Network analysis of Intermedia Agenda-setting in the News discourse about the Mpox epidemic </h3>
+<h3 style = "text-align: left;"> A Network analysis of Intermedia Frame-building in the News discourse about the Mpox epidemic </h3>
 
-<a href="../files/NetSciX_2025.pdf">NetSciX 2025 abstract</a> 
+<a href="../files/Intermedia_frame_building.pdf">Extended Abstract</a> | <a href="../files/NetSciX-25_Kunjar.pptx">NetSciX 2025 talk</a> 
 
 <b> Collaborators: </b> <a href = "https://scarpino.github.io">Samuel Scarpino</a>, <a href = "http://brooke-welles.squarespace.com">Brooke Foucault Welles</a>.
 
@@ -68,9 +68,9 @@ In 2022, the United States was struck with an epidemic of Mpox, a disease that w
 
 <img src="../img/mpox_network.svg" style="object-fit: contain; width: 60%; height: auto; display: block; margin: 0 auto;">
 
-The Intermedia Agenda-setting (IAS) theory says that news outlets influence other's reporting by co-orienting journalists towards a specific agenda. We represent this phenomenon as a network problem, with news outlets as the nodes, and intermedia influence as the edges. First, we focus on news frames surrounding sexuality and Mpox, obtained from the aforementioned analysis. While right-leaning news articles overwhelmingly stigmatized Sexual and Gender Minorities (SGMs) and preached abstinence, left-leaning articles offered competing frames, highlighting the need for sex-positive and queer affirmative approaches. Second, we derive time series data signifying the number of published articles by each outlet that feature these frames. Third, we infer a network of influence between outlets using the time series data. The network inference is done using a combination of Transfer Entropy and Bayesian structure learning in R. Thus, we have an intermedia influence network. 
+The Intermedia Frame-Building hypothesis posits that given an agenda, framing choices of different media outlets are influenced by each other. For example, if Fox news talks about Mpox by placing an emphasis on the sexual nature of transmission, NPR would follow up with their own views on the sexual nature of transmission of Mpox. We represent this phenomenon as a network problem, with news outlets as the nodes, and intermedia influence as the edges. First, we focus on news frames surrounding sexuality and Mpox, obtained from the aforementioned analysis. While right-leaning news articles overwhelmingly stigmatized Sexual and Gender Minorities (SGMs) and preached abstinence, left-leaning articles offered competing frames, highlighting the need for sex-positive and queer affirmative approaches. Second, we derive time series data signifying the number of published articles by each outlet that feature these frames. Third, we infer a network of influence between outlets using the time series data. The network inference is done using a combination of Transfer Entropy and Bayesian structure learning in R. Thus, we have an intermedia influence network. 
 
-Surprisingly, we find that alt-right news outlets such as Breitbart and Daily Caller were the central agenda setters for this discourse. In other words, left-leaning news outlets such as NPR and New York Times were influenced by each way other lesser than they were influenced by right-leaning outlets. Essentially, while alt-right outlets may have set the stage for controversies surrounding Mpox being a "gay disease", left-leaning outlets amplified this controversy by being reactive. It is important to note that these intermedia influence patterns seem to be unique to controversial and competitive news frames, since we don't find similar patterns for agendas with reasonable bipartisan consensus (such as critiques about the CDC's slow response and vaccine disparities). 
+Surprisingly, we find that alt-right news outlets such as Breitbart and Daily Caller were the central agenda setters for this discourse. In other words, left-leaning news outlets such as NPR and New York Times were influenced by each way other lesser than they were influenced by right-leaning outlets. Essentially, while alt-right outlets may have set the stage for controversies surrounding Mpox being a "gay disease", left-leaning outlets amplified this controversy by being reactive. It is important to note that these intermedia influence patterns seem to be unique to controversial and competitive news frames, since we don't find similar patterns for frames with reasonable bipartisan consensus (such as critiques about the CDC's slow response and vaccine disparities). 
 
 </details>
 
